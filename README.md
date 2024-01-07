@@ -6,7 +6,7 @@ I'm currently learning more about NLP techniques and their applications, and hop
 
 If you work with language and tech and are passionate about communication, let's chat! You can find me on LinkedIn (@fareehasrana).
 
--Fareeha S. Rana
+-Fareeha 
 
 <!---
 fsrana13/fsrana13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
